@@ -18,7 +18,7 @@ public class LearnArrays {
 		//to find the size of the array
 		int arrayLength = browsers.length;
 		System.out.println("Array Length "+arrayLength);
-		//To access the first item from the array
+		//To access the Last item from the array
 		String last = browsers[arrayLength-1];
 		System.out.println(last);
 		Arrays.sort(browsers);
